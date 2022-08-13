@@ -5,4 +5,5 @@
 .DS_Store
 
 /.quarto/
-/.recursos/
+/recursos/
+/_site/
