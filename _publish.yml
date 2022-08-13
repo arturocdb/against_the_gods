@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 39e03b6c-b293-4563-a36a-d452b431903b
+      url: 'https://against-the-gods.netlify.app'
