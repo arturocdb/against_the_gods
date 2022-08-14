@@ -1,12 +1,18 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-08-10"
-categories: [news]
+title: "Introducción a Against The Gods"
+author: "Charlie Do Amaral"
+date: "2022-08-14"
+categories: [contexto]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Introducción (Extracto del libro de Peter L. Bernstein - Against The Tods)
 
-![](thumbnail.jpg)
+![](book_cover.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+***¿Qué es lo que distingue a los miles de años de historia de lo que consideramos tiempos modernos?*** la respuesta va mucho más allá del progreso de la ciencia, la tecnología, el capitalismo y la democracia".
+
+"El pasado distante estuvo plagado de brillantes científicos, matemáticos, inventores, tecnólogos y filósofos políticos. Cientos de años antes del nacimiento de Cristo, se habían cartografiado los cielos, se había construido la gran biblioteca de Alejandría y se había enseñado la geometría de Euclides. La demanda de innovación tecnológica en la guerra era tan insaciable entonces como lo es hoy.
+
+El carbón, el petróleo, el hierro y el cobre han estado al servicio de los seres humanos durante milenios, y los viajes y las comunicaciones marcan los comienzos de la civilización registrada".
+
+"La idea revolucionaria que define el límite entre la modernidad los tiempos y el pasado es el dominio del riesgo: la noción de que el futuro es más que un capricho de los dioses y que los hombres y las mujeres no son pasivos ante la naturaleza. Hasta que los seres humanos descubrieron un camino para cruzar esa frontera, el futuro era un espejo del pasado o el turbio dominio de los oráculos y adivinos que tenían el monopolio del conocimiento de los eventos anticipados".
