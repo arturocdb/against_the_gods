@@ -5,9 +5,9 @@ date: "2022-08-30"
 categories: [contexto]
 ---
 
-Parte II - Introducción (Extracto del libro de Peter L. Bernstein - Against The Tods). Este libro cuenta la historia de un grupo de pensadores cuyo notable visión reveló cómo poner el futuro al servicio del presente.
+Parte II - Introducción (Extracto del libro de Peter L. Bernstein - Against The Tods).
 
-![](images/paste-62C755A6.png)
+![](book_cover.jpg)
 
 La historia que tengo que contar está marcada en todo momento por una tensión persistente entre quienes afirman que las mejores decisiones se basan en la cuantificación y los números, determinados por los patrones del pasado, y quienes basan sus decisiones en grados más subjetivos de la creencia sobre el futuro incierto. Esta es una controversia que nunca ha sido resuelta.
 
