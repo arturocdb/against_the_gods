@@ -1,5 +1,5 @@
 ---
-title: "A Remarkable Analytics"
+title: "Un desafío a la Estadística, Ciencia de Datos, Business Analytics e Investigación..."
 listing:
   contents: posts
   sort: "date desc"
