@@ -1,5 +1,5 @@
 ---
-title: "Acerca de mí"
+title: "Sobre nosotros"
 image: profile.jpg
 about:
   template: jolla
@@ -9,7 +9,7 @@ about:
       href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
 ---
 
-Hola, soy Charlie Arturo Do Amaral B., vivo en la ciudad de Santa Cruz de la Sierra. Soy Lic. en Administración y Dirección de Empresas con especialidad en Estadística. Recibí mi licenciatura en la Universidad Autónoma de Barcelona. En 2019 asumí nuevos desafíos en Ciencia de datos y en los últimos años como **Consultor Científico de Datos** **especialista en pricing y modelos estadísticos** para empresas importantes en Bolivia.
+Hola, soy **Charlie Arturo Do Amaral B**., vivo en la ciudad de Santa Cruz de la Sierra. Soy Lic. en Administración y Dirección de Empresas con especialidad en Estadística. Recibí mi licenciatura en la Universidad Autónoma de Barcelona. En 2019 asumí nuevos desafíos en Ciencia de datos y en los últimos años como **Consultor Científico de Datos** **especialista en pricing y modelos estadísticos** para empresas importantes en Bolivia.
 
 Como Científico de datos trabajo en equipos multifuncionales. Tengo expertise utilizando herramientas como R o Python en el desarrollo de modelos de Machine Learning/Algoritmos de Ciencia de datos, usar técnicas estadísticas o de minería de datos para modelar problemas complejos, encontrar oportunidades, descubrir soluciones y brindar información de negocio procesable.
 
