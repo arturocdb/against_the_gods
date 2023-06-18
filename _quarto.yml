@@ -10,7 +10,7 @@ website:
         href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
 
 editor: visual
