@@ -20,7 +20,7 @@ website:
         href: https://www.youtube.com/@Estadistiqueando
 format:
   html:
-    theme: united
+    theme: litera
     css: styles.css
 
 editor: visual
