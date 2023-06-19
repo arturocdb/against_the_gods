@@ -1,6 +1,6 @@
 ---
 title: "Qué significa Contra los dioses?"
-image: profile.jpg
+image: storm_edited.jpg
 about:
   template: marquee
   links:
@@ -22,4 +22,4 @@ Este blog representa a un grupo de pensadores cuya notable visión reveló como 
 
 Como Prometeo, desafiaron a los dioses y sondearon las tinieblas en busca de la luz que convertía la falta de conocimiento de "enemigo" en "oportunidad".
 
-Te invitamos a acompañarnos en esta aventura desafiando a los dioses...
+Te invitamos a acompañarnos en esta notable aventura intelectual desafiando a los dioses...
