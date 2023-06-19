@@ -3,11 +3,21 @@ project:
 
 website:
   title: "Contra los dioses"
+  favicon: "images/profile.jpg"
   navbar:
+    left:
+      - text: Inicio
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Proyectos
+        href: proyectos.qmd
     right:
       - about.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+      - icon: youtube
+        href: https://www.youtube.com/@Estadistiqueando
 format:
   html:
     theme: united
