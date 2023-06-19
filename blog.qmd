@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Un desafío a la Estadística, Economía, Ciencia de datos e investigación..."
 listing:
   contents: posts
   sort: "date desc"
