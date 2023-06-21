@@ -4,6 +4,7 @@ project:
 website:
   title: "Contra los dioses"
   favicon: "images/profile.jpg"
+  google-analytics: "G-7NN6VFNJH3"
   navbar:
     left:
       - text: Inicio
@@ -20,7 +21,7 @@ website:
         href: https://www.youtube.com/@Estadistiqueando
 format:
   html:
-    theme: litera
+    theme: spacelab
     css: styles.css
 
 editor: visual
