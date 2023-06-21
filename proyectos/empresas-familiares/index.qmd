@@ -1,0 +1,30 @@
+---
+title: "Sucesión Familiar en Empresas Cruceñas: Factores de éxito y fracaso"
+author: "Roberto Pérez"
+date: "2023-06-21"
+about: 
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/roberto-p%C3%A9rez-llanes-b0148a105/
+---
+
+![](family_business.jpg)
+
+Las empresas familiares son sectores principales de la economía boliviana, siendo su contribución al Producto Interno Bruto del 29% (CAINCO, 2022). Estas son razones suficientes del por qué es relevante el estudio de la empresa familiar en general y de la sucesión en particular.
+
+
+### Objetivo General
+
+Identificar y evaluar los factores claves del éxito en empresas cruceñas de diferente tipo y que operan en diferentes sectores, al realizar el proceso de sucesión familiar.
+
+### Autores
+
+**Roberto Catalino Pérez Llanes** | Santa Cruz de la Sierra
+
+Docente | UPSA
+
+**Gaby Lourdes Negrete Landívar** | Santa Cruz de la Sierra
+
+Docente | UPSA
