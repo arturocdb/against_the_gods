@@ -25,7 +25,9 @@ website:
         href: https://www.youtube.com/@Estadistiqueando
 format:
   html:
-    theme: default
+    theme: 
+      light: default
+      dark: darkly
     css: styles.css
 
 editor: visual
