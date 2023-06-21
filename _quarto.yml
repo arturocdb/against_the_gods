@@ -16,12 +16,16 @@ website:
     right:
       - about.qmd
       - icon: linkedin
-        href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+        menu: 
+          - text: Charlie Do Amaral
+            url: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+          - text: Fernando Parada
+            url: https://www.linkedin.com/in/f3rnando-parada/
       - icon: youtube
         href: https://www.youtube.com/@Estadistiqueando
 format:
   html:
-    theme: spacelab
+    theme: default
     css: styles.css
 
 editor: visual
