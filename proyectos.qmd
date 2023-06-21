@@ -1,1 +1,6 @@
-
+---
+title: "Nuestra pasión plasmada a través de proyectos..."
+listing:
+  contents: proyectos
+  type: grid
+---

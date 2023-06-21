@@ -10,8 +10,3 @@ Texto introductorio
 ![](thumbnail.jpg)
 
 Texto
-
-
-
-
-

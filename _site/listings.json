@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/proyectos.html",
+    "items": [
+      "/proyectos/empresas-familiares/index.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/post-with-code/index.html",

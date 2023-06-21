@@ -1,5 +1,8 @@
 {
   "listingMap": {
+    "proyectos.qmd": [
+      "proyectos"
+    ],
     "blog.qmd": [
       "posts"
     ]
