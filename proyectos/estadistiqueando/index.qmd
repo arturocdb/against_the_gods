@@ -1,0 +1,31 @@
+---
+title: "Estadistiqueando - Canal educativo en Youtube"
+author: "Fernando Parada Guachalla"
+date: "2023-06-22"
+about: 
+  template: marquee
+  links: 
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/@Estadistiqueando
+---
+
+![](logo_estadistiqueando.png)
+
+### Objetivo
+
+Difundir material educativo a través de videos en temas relacionados a la Estadística, Investigación, Ciencias Económicas y Marketing.
+
+### Material y contenido
+
+Parte del material que encontrará en el canal:
+
+-   Análisis factorial
+
+-   Pruebas de hipótesis de una muestra (Pruebas T y Wilcoxon)
+
+-   Escalamiento diferencial semántico
+
+-   Análisis Cluster aplicado al Marketing
+
+-   Diseño de cuestionarios, Muesteo Aleatorio Estratificado, Pruebas de hipótesis de muestras pareadas, Análisis de Correspondencia aplicado al Marketing, Curso de técnicas de escalamiento aplicado al Marketing y muchos temas adicionales.
