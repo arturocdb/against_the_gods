@@ -9,7 +9,7 @@ website:
     left:
       - text: Inicio
         href: index.qmd
-      - text: Blog
+      - text: Store
         href: blog.qmd
       - text: Proyectos
         href: proyectos.qmd
