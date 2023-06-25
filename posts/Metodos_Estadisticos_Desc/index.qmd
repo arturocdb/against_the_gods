@@ -79,8 +79,6 @@ Destinado a Estudiantes de pregrado, profesionales que necesitan refrescar conce
 
 ## Preview
 
-![](01.jpeg)
-
 ![](preview_01.png)
 
 ![](preview_02.png)
