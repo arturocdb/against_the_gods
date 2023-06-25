@@ -9,8 +9,6 @@ about:
       href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
 ---
 
-![](01.jpg)
-
 ### Descripción
 
 ***Métodos Estadísticos Descriptivos*** es un tutorial que cubre los conceptos fundamentales de la Estadística Descriptiva guiándole paso a paso con el software SPSS mediante el uso mínimo de fórmulas matemáticas sin omitir lo importante. La idea central es la simplificación de los conceptos y la facilidad de uso. Es un tutorial teórico-práctico mediante la simplificación de los conceptos para su aplicación.
@@ -79,6 +77,8 @@ Destinado a Estudiantes de pregrado, profesionales que necesitan refrescar conce
 ***Análisis Exploratorio de Datos***
 
 ## Preview
+
+![](01.jpeg)
 
 ![](preview_01.png)
 
