@@ -1,5 +1,6 @@
 ---
 title: "Métodos Estadísticos Descriptivos"
+image: 01.jpeg
 categories: [Estadistica]
 about: 
   template: marquee
