@@ -40,42 +40,42 @@ Destinado a Estudiantes de pregrado, profesionales que necesitan refrescar conce
 
 ***1.1 Estadísticas descriptivas***
 
-  * Presentación tabular de datos usando SPSS
-  
-  * Tabla de frecuencias sin intervalos
-  
-  * Tabla de frecuencias con intervalos
-  
+-   Presentación tabular de datos usando SPSS
+
+-   Tabla de frecuencias sin intervalos
+
+-   Tabla de frecuencias con intervalos
+
 ***1.2 Representación gráfica de los datos***
 
-  * Gráfica de barras
-  
-  * Gráfica circular
-  
-  * Histograma
-  
-  * Gráfico de líneas
-  
-  * Diagrama de tallo y hoja 
-  
-  * Gráfico de caja (Boxplot)
-  
-  * Polígono de frecuencia
-  
-  * Gráfico de dispersión 
-  
-  * Curva/Ojiva de frecuencia acumulada
-  
+-   Gráfica de barras
+
+-   Gráfica circular
+
+-   Histograma
+
+-   Gráfico de líneas
+
+-   Diagrama de tallo y hoja
+
+-   Gráfico de caja (Boxplot)
+
+-   Polígono de frecuencia
+
+-   Gráfico de dispersión
+
+-   Curva/Ojiva de frecuencia acumulada
+
 ***Medidas numéricas***
-  
-  * Medidas de tendencia central
-  
-  * Medidas de dispersión/propagación/variabilidad
-  
-  * Medidas de forma
-  
-  * Medidas de asociación
-  
+
+-   Medidas de tendencia central
+
+-   Medidas de dispersión/propagación/variabilidad
+
+-   Medidas de forma
+
+-   Medidas de asociación
+
 ***Análisis Exploratorio de Datos***
 
 ## Preview
