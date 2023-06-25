@@ -1,12 +1,92 @@
 ---
 title: "Métodos Estadísticos Descriptivos"
-author: "Charlie Do Amaral"
-date: "2023-06-21"
 categories: [Estadistica]
+about: 
+  template: marquee
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
 ---
 
-Texto introductorio
+![](01.jpg)
 
-![](stats.png)
+### Descripción
 
-Texto
+***Métodos Estadísticos Descriptivos*** es un tutorial que cubre los conceptos fundamentales de la Estadística Descriptiva guiándole paso a paso con el software SPSS mediante el uso mínimo de fórmulas matemáticas sin omitir lo importante. La idea central es la simplificación de los conceptos y la facilidad de uso. Es un tutorial teórico-práctico mediante la simplificación de los conceptos para su aplicación.
+
+### Público objetivo
+
+Destinado a Estudiantes de pregrado, profesionales que necesitan refrescar conceptos, profesores y educadores de Estadística I y/o Estadística Descriptiva.
+
+### Características
+
+-   Temática puntual (no se profundiza en conceptos). Simple y directo.
+
+-   Contenido teórico-práctico con capturas de pantalla y el paso a paso detallado.
+
+-   Interpretación estadística de resultados
+
+-   PDF con 57 páginas.
+
+-   Datasets para replicar el tutorial
+
+### Costo
+
+**\$us 25** (o su equivalente en moneda nacional/bolivianos)
+
+::: panel-tabset
+## Contenido
+
+***1.1 Estadísticas descriptivas***
+
+  * Presentación tabular de datos usando SPSS
+  
+  * Tabla de frecuencias sin intervalos
+  
+  * Tabla de frecuencias con intervalos
+  
+***1.2 Representación gráfica de los datos***
+
+  * Gráfica de barras
+  
+  * Gráfica circular
+  
+  * Histograma
+  
+  * Gráfico de líneas
+  
+  * Diagrama de tallo y hoja 
+  
+  * Gráfico de caja (Boxplot)
+  
+  * Polígono de frecuencia
+  
+  * Gráfico de dispersión 
+  
+  * Curva/Ojiva de frecuencia acumulada
+  
+***Medidas numéricas***
+  
+  * Medidas de tendencia central
+  
+  * Medidas de dispersión/propagación/variabilidad
+  
+  * Medidas de forma
+  
+  * Medidas de asociación
+  
+***Análisis Exploratorio de Datos***
+
+## Preview
+
+![](preview_01.png)
+
+![](preview_02.png)
+
+![](preview_03.png)
+
+![](preview_04.png)
+
+## Forma de Pago
+:::
