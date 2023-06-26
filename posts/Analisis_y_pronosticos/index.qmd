@@ -1,0 +1,86 @@
+---
+title: "Análisis y Pronóstico de Series de Tiempo"
+image: serie.jpeg
+categories: [Estadistica]
+about: 
+  template: marquee
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+---
+
+### Descripción
+
+***Análisis y pronóstico de series de tiempo*** es un tutorial desarrollado para seguirlo paso a paso con SPSS que muestra como realizar análisis y pronósticos de series de tiempo. Explica de forma sencilla y práctica las metodologías fundamentales como suavizamiento exponencial y modelos ARIMA para la realización de pronósticos. 
+
+### Público objetivo
+
+Profersionales en Supply Chain, analítica de productos y estimación de la demanda, predecir comportamiento futuro de datos de series de tiempo. 
+
+### Características
+
+-   Temática puntual (no se profundiza en conceptos). Simple y directo.
+
+-   Contenido teórico-práctico con capturas de pantalla y el paso a paso detallado.
+
+-   PDF con 30 páginas.
+
+-   Datasets para replicar el tutorial
+
+### Costo
+
+**\$us 25** (o su equivalente en moneda nacional/bolivianos)
+
+::: panel-tabset
+## Contenido
+
+***1.1 Introducción al análisis y pronóstico de series de tiempo***
+
+-   Componentes de series temporales
+
+-   Comprensión de series temporales
+
+-   Series temporales estacionarias
+
+-   Creación de retrasos o rezagos de series de tiempo
+
+-   La medición del error de pronóstico
+
+***1.2 Descomposición de series temporales***
+
+-   Descomposición de datos no estacionales
+
+-   Descomposición de datos estacionales
+
+***1.3 Pronóstico utilizando suavizado exponencial***
+
+-   Suavizado exponencial simple
+
+
+***1.4 Modelos ARIMA***
+
+-   Formulación de modelos ARIMA
+
+-   Diferenciación de una serie temporal
+
+-   Selección de un modelo ARIMA candidato
+
+-   Pronóstico utilizando un modelo ARIMA
+
+***1.5 Autocorrelación y Autocorrelación Parcial***
+
+-   Función de autocorrelación parcial
+
+## Preview
+
+![](preview_01.png)
+
+![](preview_02.png)
+
+![](preview_03.png)
+
+![](preview_04.png)
+
+## Forma de Pago
+:::

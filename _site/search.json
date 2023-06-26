@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/Analisis_y_pronosticos/index.html",
+    "href": "posts/Analisis_y_pronosticos/index.html",
+    "title": "Análisis y Pronóstico de Series de Tiempo",
+    "section": "",
+    "text": "Descripción\nAnálisis y pronóstico de series de tiempo es un tutorial desarrollado para seguirlo paso a paso con SPSS que muestra como realizar análisis y pronósticos de series de tiempo. Explica de forma sencilla y práctica las metodologías fundamentales como suavizamiento exponencial y modelos ARIMA para la realización de pronósticos.\n\n\nPúblico objetivo\nProfersionales en Supply Chain, analítica de productos y estimación de la demanda, predecir comportamiento futuro de datos de series de tiempo.\n\n\nCaracterísticas\n\nTemática puntual (no se profundiza en conceptos). Simple y directo.\nContenido teórico-práctico con capturas de pantalla y el paso a paso detallado.\nPDF con 30 páginas.\nDatasets para replicar el tutorial\n\n\n\nCosto\n$us 25 (o su equivalente en moneda nacional/bolivianos)\n\nContenidoPreviewForma de Pago\n\n\n1.1 Introducción al análisis y pronóstico de series de tiempo\n\nComponentes de series temporales\nComprensión de series temporales\nSeries temporales estacionarias\nCreación de retrasos o rezagos de series de tiempo\nLa medición del error de pronóstico\n\n1.2 Descomposición de series temporales\n\nDescomposición de datos no estacionales\nDescomposición de datos estacionales\n\n1.3 Pronóstico utilizando suavizado exponencial\n\nSuavizado exponencial simple\n\n1.4 Modelos ARIMA\n\nFormulación de modelos ARIMA\nDiferenciación de una serie temporal\nSelección de un modelo ARIMA candidato\nPronóstico utilizando un modelo ARIMA\n\n1.5 Autocorrelación y Autocorrelación Parcial\n\nFunción de autocorrelación parcial"
+  },
+  {
     "objectID": "posts/Metodos_Estadisticos_Desc/index.html",
     "href": "posts/Metodos_Estadisticos_Desc/index.html",
     "title": "Métodos Estadísticos Descriptivos",
@@ -46,6 +53,6 @@
     "href": "blog.html",
     "title": "Un desafío a la Estadística, Economía, Ciencia de datos e investigación…",
     "section": "",
-    "text": "Métodos Estadísticos Descriptivos\n\n\n\n\n\n\n\nEstadistica\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Análisis y Pronóstico de Series de Tiempo\n\n\n\n\n\n\n\nEstadistica\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMétodos Estadísticos Descriptivos\n\n\n\n\n\n\n\nEstadistica\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   }
 ]
