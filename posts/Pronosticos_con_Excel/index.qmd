@@ -1,0 +1,139 @@
+---
+title: "Pronósticos con Excel"
+image: forecasting.jpeg
+categories: [Forecasting, Excel]
+about: 
+  template: marquee
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+---
+
+### Descripción
+
+***Pronósticos con Excel*** es un tutorial desarrollado para seguirlo paso a paso con Excel. Muestra paso a paso como implementar en Excel los modelos de elaboración de pronósticos más utilizados. Se dá énfasis al uso mínimo de fórmulas matemáticas sin descuidar conceptos importantes mediante el uso de un lenguaje fácil simple y fácil de comprender.
+
+### Público objetivo
+
+Profersionales en Supply Chain, Analistas de productos y estimación de la demanda, Educadores y profesionales en general que deseen conocer las técnicas de pronósticos.
+
+### Características
+
+-   Temática puntual (no se profundiza en conceptos). Simple y directo.
+
+-   Contenido teórico-práctico con capturas de pantalla y el paso a paso detallado.
+
+-   PDF con 66 páginas.
+
+-   Datasets y hojas de cálculo Excel para replicar el tutorial.
+
+### Costo
+
+**\$us 29** (o su equivalente en moneda nacional/bolivianos)
+
+::: panel-tabset
+## Contenido
+
+***1. Promedio móvil***
+
+-   1.1 Modelo promedio móvil
+
+-   1.2 Insights
+
+***2. KPI Pronóstico***
+
+-   2.1 Error de pronóstico
+
+-   2.2 Sesgo
+
+-   2.3 MAPE
+
+-   2.4 MAE
+
+-   2.5 RMSE
+
+-   2.6 Qué KPI de pronóstico elegir?
+
+***3. Suavizado Exponencial***
+
+-   3.1 La idea detrás del suavizado exponencial
+
+-   3.2 Modelo
+
+-   3.3 Insights
+
+-   3.4 Excel
+
+***4. Desajuste***
+
+-   4.1 Causas del desajuste
+
+-   4.2 Soluciones
+
+***5. Doble Suavizado Exponencial***
+
+-   5.1 La idea detrás del suavizado exponencial doble
+
+-   5.2 Modelo de suavizado exponencial doble
+
+-   5.3 Insights
+
+-   5.4 Excel
+
+***6. Optimización del modelo***
+
+-   6.1 Excel
+
+***7. Suavizado doble con tendencia amortiguada***
+
+-   7.1 La idea detrás del suavizado doble con tendencia amortiguada
+
+-   7.2 Modelo
+
+-   7.3 Insights
+
+-   7.4 Excel
+
+***8. Sobreajuste (Overfitting)***
+
+-   8.1 Ejemplos de pronóstico de la cadena de suministro
+
+-   8.2 Causas y soluciones
+
+***9. Suavizado Exponencial Triple***
+
+-   9.1 La idea detrás del suavizado exponencial triple
+
+-   9.2 Modelo
+
+-   9.3 Primer ejemplo de insights
+
+-   9.4 Excel
+
+***10. Suavizado Exponencial Triple Aditivo***
+
+-   10.1 La idea detrás del suavizado exponencial triple aditivo
+
+-   10.2 Modelo
+
+-   10.3 Insights
+
+-   10.4 Excel
+
+## Preview
+
+![](preview_01.png)
+
+![](preview_02.png)
+
+![](preview_03.png)
+
+![](preview_04.png)
+
+![](preview_05.png)
+
+![](preview_06.png)
+
+## Forma de Pago
+:::
