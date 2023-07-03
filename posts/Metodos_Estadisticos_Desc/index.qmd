@@ -88,4 +88,6 @@ Destinado a Estudiantes de pregrado, profesionales que necesitan refrescar conce
 ![](preview_04.png)
 
 ## Forma de Pago
+
+![](QRSIMPLE.png)
 :::

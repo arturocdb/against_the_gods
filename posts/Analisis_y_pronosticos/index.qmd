@@ -82,4 +82,6 @@ Profersionales en Supply Chain, Analistas de productos y estimación de la deman
 ![](preview_04.png)
 
 ## Forma de Pago
+
+![](QRSIMPLE.png)
 :::
