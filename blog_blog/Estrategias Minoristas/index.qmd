@@ -1,0 +1,15 @@
+---
+title: "Estrategias Minoristas"
+image: retail.jpeg
+categories: [Retail]
+about: 
+  template: marquee
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+---
+
+### XXX
+
+

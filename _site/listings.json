@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/blog_blog.html",
+    "items": [
+      "/blog_blog/Estrategias Minoristas/index.html"
+    ]
+  },
+  {
     "listing": "/proyectos.html",
     "items": [
       "/proyectos/estadistiqueando/index.html",

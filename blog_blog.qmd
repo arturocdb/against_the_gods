@@ -1,7 +1,7 @@
 ---
-title: "Adquiere aquí nuestros tutoriales paso a paso..."
+title: "Un desafío a la Estadística, Economía, Ciencia de Datos e Investigación"
 listing:
-  contents: posts
+  contents: blog_blog
   sort: "date desc"
   type: default
   categories: true

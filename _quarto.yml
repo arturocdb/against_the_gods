@@ -11,6 +11,8 @@ website:
         href: index.qmd
       - text: Store
         href: blog.qmd
+      - text: Blog
+        href: blog_blog.qmd
       - text: Proyectos
         href: proyectos.qmd
     right:
