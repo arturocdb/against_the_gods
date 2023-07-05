@@ -90,4 +90,15 @@ Destinado a Estudiantes de pregrado, profesionales que necesitan refrescar conce
 ## Forma de Pago
 
 ![](QRSIMPLE.png)
+
+## Envío
+
+**Estimado cliente**: una vez realizado el depósito, le pedimos por favor nos pueda enviar un mensaje mediante WhatsApp al número **+591 73157424** indicando mediante que medio desea recibir los archivos del tutorial adquirido. Los medios pueden ser:
+
+-   WhatsApp
+
+-   Email
+
+Una vez que nuestro departamento de soporte recibe el mensaje, procede a verificar el depósito, posteriormente se procede a realizarle el envío.
+
 :::
